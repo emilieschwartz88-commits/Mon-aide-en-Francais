@@ -1,0 +1,6 @@
+{
+  "name": "appli-francais-college-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
